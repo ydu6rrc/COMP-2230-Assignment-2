@@ -73,6 +73,19 @@ header img {
   border-radius: 6px;
 }
 
+.one-row svg {
+  display: block;
+  margin: 20px auto;
+}
+
+footer {
+  border-top: 1px solid lightgray;
+  margin-top: 20px;
+  padding-top: 10px;
+  text-align: center;
+  font-size: 12px;
+}
+
 @media (max-width: 480px) {
   .left, .right, .one-row
   {

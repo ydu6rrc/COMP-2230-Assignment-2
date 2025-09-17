@@ -58,8 +58,7 @@ header {
 }
 
 .list li {
-  background-color: lightslategray;
-  color: lightgrey;
+  background-color: lightsalmon;
   padding: 10px 10px;
   border-radius: 6px;
 }

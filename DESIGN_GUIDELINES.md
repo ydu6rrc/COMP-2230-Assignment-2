@@ -2,8 +2,8 @@
 
 ## Fonts
 
-Google-Fonts Roboto
+Google-Fonts Roboto, Arial.
 
 ## Colors
 
-Black, Grey, White
+Black, Grey, Light Grey.

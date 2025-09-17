@@ -46,3 +46,9 @@ header {
   text-align: center;
 }
 
+@media (max-width: 480px) {
+  .left, .right, .one-row
+  {
+    flex: 0 0 100%;
+  }
+}

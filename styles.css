@@ -53,6 +53,14 @@ header {
   margin-bottom: 50px;
 }
 
+header img {
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+
+}
+
 .list {
   list-style: none;
   display: flex;

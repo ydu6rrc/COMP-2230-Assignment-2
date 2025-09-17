@@ -51,9 +51,18 @@ header {
   text-align: center;
 }
 
+.list {
+  list-style: none;
+  display: flex;
+  gap: 15px;
+}
 
-
-
+.list li {
+  background-color: lightslategray;
+  color: lightgrey;
+  padding: 10px 10px;
+  border-radius: 6px;
+}
 
 @media (max-width: 480px) {
   .left, .right, .one-row

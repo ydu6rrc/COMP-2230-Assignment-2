@@ -4,18 +4,18 @@ body{
     background-color: lightyellow;
     color:black;
     font-family: "Roboto", Arial, sans-serif;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: normal;
 }
 
 
 h1 {
-    font-size: 40px;
+    font-size: 3rem;
     font-weight: bold;
 }
 
 h2 {
-    font-size: 25px;
+    font-size: 1.5rem;
     font-weight: bold;
     width: 500px;
     border-bottom: 1px solid grey;
@@ -24,7 +24,7 @@ h2 {
 }
 
 h3 {
-    font-size: 20px;
+    font-size: 1.25rem;
 }
 
 .container {
@@ -83,7 +83,7 @@ footer {
   margin-top: 20px;
   padding-top: 10px;
   text-align: center;
-  font-size: 12px;
+  font-size: 0.8rem;
 }
 
 @media (max-width: 480px) {
